@@ -1,0 +1,1 @@
+# 使用データ:https://www.kaggle.com/CooperUnion/anime-recommendations-database
